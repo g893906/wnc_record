@@ -1,0 +1,9 @@
+schematic
+
+BOM
+ parameter
+  WNC_PN	DESCRIPTION1	BRAND	VENDORNO	Quantity	Value	DIPSMT	Part Reference
+  
+off page whole modify
+ copy hot key: ctrl+ins
+ paste hot key: shift+ins
